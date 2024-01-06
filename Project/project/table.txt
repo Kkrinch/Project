@@ -1,0 +1,5 @@
+Figure: Rectangle|x1: 147|y1: 131|x2: 422|y2: 313|
+Figure: Cube|x1: 423|y1: 131|x2: 422|y2: 303|
+Figure: Cube|x1: 422|y1: 315|x2: 147|y2: 130|
+Figure: Cube|x1: 147|y1: 132|x2: 147|y2: 132|
+Figure: Cube|x1: 150|y1: 314|x2: 425|y2: 130|

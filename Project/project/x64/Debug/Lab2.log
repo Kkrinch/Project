@@ -1,0 +1,4 @@
+﻿  shape.cpp
+C:\Users\1\Desktop\Lab5\Lab2\shape.cpp(61,9): warning C4101: hBrush: неиспользованная локальная переменная
+C:\Users\1\Desktop\Lab5\Lab2\shape.cpp(61,17): warning C4101: hBrushOld: неиспользованная локальная переменная
+  Lab2.vcxproj -> C:\Users\1\Desktop\Lab5\x64\Debug\Lab2.exe
